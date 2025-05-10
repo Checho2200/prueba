@@ -1,0 +1,11 @@
+C:\Users\Sergio\Desktop\PROYECTO MUNICIPALIDAD\ProyectoMunicipalidad-PPPsco\ProyectoMunicipalidad.Models\bin\Debug\net9.0\ProyectoMunicipalidad.Models.deps.json
+C:\Users\Sergio\Desktop\PROYECTO MUNICIPALIDAD\ProyectoMunicipalidad-PPPsco\ProyectoMunicipalidad.Models\bin\Debug\net9.0\ProyectoMunicipalidad.Models.dll
+C:\Users\Sergio\Desktop\PROYECTO MUNICIPALIDAD\ProyectoMunicipalidad-PPPsco\ProyectoMunicipalidad.Models\bin\Debug\net9.0\ProyectoMunicipalidad.Models.pdb
+C:\Users\Sergio\Desktop\PROYECTO MUNICIPALIDAD\ProyectoMunicipalidad-PPPsco\ProyectoMunicipalidad.Models\obj\Debug\net9.0\ProyectoMunicipalidad.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\PROYECTO MUNICIPALIDAD\ProyectoMunicipalidad-PPPsco\ProyectoMunicipalidad.Models\obj\Debug\net9.0\ProyectoMunicipalidad.Models.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\PROYECTO MUNICIPALIDAD\ProyectoMunicipalidad-PPPsco\ProyectoMunicipalidad.Models\obj\Debug\net9.0\ProyectoMunicipalidad.Models.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\PROYECTO MUNICIPALIDAD\ProyectoMunicipalidad-PPPsco\ProyectoMunicipalidad.Models\obj\Debug\net9.0\ProyectoMunicipalidad.Models.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\PROYECTO MUNICIPALIDAD\ProyectoMunicipalidad-PPPsco\ProyectoMunicipalidad.Models\obj\Debug\net9.0\ProyectoMunicipalidad.Models.dll
+C:\Users\Sergio\Desktop\PROYECTO MUNICIPALIDAD\ProyectoMunicipalidad-PPPsco\ProyectoMunicipalidad.Models\obj\Debug\net9.0\refint\ProyectoMunicipalidad.Models.dll
+C:\Users\Sergio\Desktop\PROYECTO MUNICIPALIDAD\ProyectoMunicipalidad-PPPsco\ProyectoMunicipalidad.Models\obj\Debug\net9.0\ProyectoMunicipalidad.Models.pdb
+C:\Users\Sergio\Desktop\PROYECTO MUNICIPALIDAD\ProyectoMunicipalidad-PPPsco\ProyectoMunicipalidad.Models\obj\Debug\net9.0\ref\ProyectoMunicipalidad.Models.dll

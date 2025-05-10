@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ProyectoMunicipalidad.Models/1.0.0": {
+        "runtime": {
+          "ProyectoMunicipalidad.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProyectoMunicipalidad.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
